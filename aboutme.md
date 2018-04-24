@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Things about me
+subtitle: Hi!
 ---
 
 My name is Zhang Lei, living in Beijing China. A big city full of memories and mystery.
@@ -13,4 +13,4 @@ My name is Zhang Lei, living in Beijing China. A big city full of memories and m
 
 What else do you need?
 
-
+My WeChat? **air23zhang**
