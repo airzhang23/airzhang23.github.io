@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Things about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Zhang Lei, living in Beijing China. A big city full of memories and mystery.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am working in the IT field over 15 years
+- Playing Basketball for a long time, back to high school. Still playing since this is so fun. Chicago Bulls back to 1990s is my favorite team at all time. MJ, Scottie, Rodman, yeah, real basketball.
+- Foosball is another hobby of mine. 6 years till now, and I found so much fun in it. Leaning new skills, strategy, applying it during match. Making new friends all over the world.
+
 
 What else do you need?
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
