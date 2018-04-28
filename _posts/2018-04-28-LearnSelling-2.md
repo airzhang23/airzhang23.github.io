@@ -11,6 +11,10 @@ Business中最重要的三件事情：
 
 增加销售额，降低成本，增加市场占有率
 
+销售不是卖给客户他/她不想要的东西，而是帮助客户没想到的角度看问题，这才是selling。**Situational Awareness**
+
+作为销售最重要的Tip：**Prospecting**    Lead Generation
+
 - Sales Training
 
   - Part I: [How to Sell Your Product or Service: Acquiring the Sales Mindset](https://www.youtube.com/watch?v=ynIgqCaGQJc)
