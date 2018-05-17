@@ -1,6 +1,6 @@
 ---
-Layout: post
-Title: Bulding Private Cloud using OpenStack - VMWare篇
+layout: post
+title: Bulding Private Cloud using OpenStack - VMWare篇
 ---
 
 1. Why OpenStack from VMWare expert
