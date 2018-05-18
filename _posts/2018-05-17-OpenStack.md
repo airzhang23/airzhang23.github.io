@@ -43,3 +43,10 @@ title: Bulding Private Cloud using OpenStack - VMWare篇
       - Swift还不支持，需要通过第三方的产品提供
 
    ![VIO_Deployment1](../img/VIO_Deployment1.png)
+
+4. OpenStack相关网站信息
+
+   [Deploy, Using, Operation and Managing VIO](https://featurewalkthrough.vmware.com/t/vmware-integrated-openstack/)
+
+   [NetApp OpenStack](https://www.netapp.com/us/solutions/it-automation/openstack-private-cloud.aspx)
+
